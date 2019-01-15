@@ -1,1 +1,1 @@
-Ejercicio de evaluación intermedia - sprint 3
+Ejercicio de React con algunos errores.
